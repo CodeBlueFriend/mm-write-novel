@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+**/context-packs/*.md
+/examples/
+/我死后，住进了凶手的手机.md
